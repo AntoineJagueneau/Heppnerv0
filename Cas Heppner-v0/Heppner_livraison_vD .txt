@@ -1,0 +1,17 @@
+Nom et numéro de la version : Heppner_v0
+Client :
+- Groupe Heppner - Branche Transport Terrestre
+Développée par : 
+- InfoTek - Groupe X 
+- JAGUENEAU Antoine / MARCELIN Alan
+Informations de configuration :
+-  
+-
+Nouvelles fonctionnalités de la version :
+- première version, avec le squellette du site
+-
+Correction de bug de la version précédente :
+- Aucun car c'est la première version
+-
+Commentaires :
+- Phase de codage pas encore entamée.
